@@ -1,0 +1,6 @@
+org.springframework.context.ApplicationListener=com.nero.springboot.event.buildin.ApplicationEnvironmentPreparedEventListener,\
+com.nero.springboot.event.buildin.ApplicationStartingEventListener,\
+com.nero.springboot.event.buildin.ApplicationPreparedEventListener,\
+com.nero.springboot.event.buildin.ApplicationStartedEventListener,\
+com.nero.springboot.event.buildin.ApplicationReadyEventListener,\
+com.nero.springboot.event.buildin.ApplicationFailedEventListener
